@@ -1,4 +1,7 @@
 # vue-crash-course
+Todos app on Vue JS
+
+![Screenshot](./screenshot.png)
 
 ## Project setup
 ```
